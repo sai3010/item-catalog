@@ -1,9 +1,9 @@
 # Steps to run
-1)install vagrant and vmware
-2)clone the git repository - git clone https://github.com/sai3010/item-catalog.git
-3)open terminal 
-5)run vagrant up and vagrant ssh
-6)cd to shared directory
+1. install vagrant and vmware
+2. clone the git repository - git clone https://github.com/sai3010/item-catalog.git
+3. open terminal 
+4. run vagrant up and vagrant ssh
+5. cd to shared directory
 
 ### Set up a Google Plus auth application.
 1. go to https://console.developers.google.com/project and login with Google.
