@@ -20,7 +20,9 @@
 10. Rename the JSON file "client_secret.json"
 11. In main.html replace the line "data-clientid="45327562329-c34ejqbu5m8i68h1vkgrkhmcstdqktbs.apps.googleusercontent.com" so that it uses your Client ID from the web applciation. 
 
-### Open in a webpage
-1. Now you can open in a webpage by going to either:
-    2.http://0.0.0.0:5000
-    3.http://localhost:5000 
+### How to use
+1. cd/vagrant/catalog
+2. run python database_setup.py 
+3. run python listofmenus.py to populate the database
+4. run python project.py
+5. open localhost://5000 to view it in browser
