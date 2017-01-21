@@ -13,8 +13,8 @@
 5. Select Web Application
 6. On the consent screen, type in a product name and save.
 7. In Authorized javascript origins add:
-    http://0.0.0.0:8080
-    http://localhost:8080 
+    ## http://0.0.0.0:8080
+    ## http://localhost:8080 
 8. Click create client ID
 9. Click download JSON and save it into the root director of this project. 
 10. Rename the JSON file "client_secret.json"
@@ -25,4 +25,4 @@
 2. run python database_setup.py 
 3. run python listofmenus.py to populate the database
 4. run python project.py
-5. open localhost://5000 to view it in browser
+5. open http://localhost:5000/ to view it in browser
