@@ -13,8 +13,8 @@
 5. Select Web Application
 6. On the consent screen, type in a product name and save.
 7. In Authorized javascript origins add:
-    ## http://0.0.0.0:8080
-    ## http://localhost:8080 
+    * http://0.0.0.0:8080
+    * http://localhost:8080/ 
 8. Click create client ID
 9. Click download JSON and save it into the root director of this project. 
 10. Rename the JSON file "client_secret.json"
